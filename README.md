@@ -34,17 +34,14 @@ A fun gaming console made entirely in **8086 Assembly Language**. It includes tw
 
 **File Location:** `code/Playstation XD! (1).asm`
 
----
 ## Screenshots
-
-![Wordle Game](screenshots/wordle-game.png)
-![RPS Game](screenshots/rps-game.png)
+![Welcome Screen](images/welcome-screen.png)
+![Wordle Game](images/wordle-gameplay.png)
+![RPS Game](images/Rock-Paper-Scissors.png)
 
 ## Group Members
 - Rizwanul Islam (21201129)
 - Fahima Hasin Khan (21301319)
 - Abrar Jawad (21201701)
-
-
 
 **Made with using 8086 Assembly**
