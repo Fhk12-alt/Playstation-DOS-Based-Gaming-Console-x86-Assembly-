@@ -1,6 +1,6 @@
 # Playstation XD - Assembly Language Game Console
 
-![Welcome Screen](screenshots/welcome-screen.png)
+![Welcome Screen](images/welcome-screen.png)
 
 A fun gaming console made entirely in **8086 Assembly Language**. It includes two games: **Wordle Ultimate** and **Rock Paper Scissors**.
 
